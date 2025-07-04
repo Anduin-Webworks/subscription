@@ -1,0 +1,14 @@
+name: subscription
+id: ari:cloud:compass:a9370046-464a-4000-8146-9d92acfbc728:component/70fcc8de-61e0-4324-b640-e292e7692006/16b20673-51af-4982-8cfa-ed0c54a165ba
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:html
+  - source:github
+customFields: null
